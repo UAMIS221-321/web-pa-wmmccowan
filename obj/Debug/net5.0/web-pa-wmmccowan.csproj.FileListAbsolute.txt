@@ -1,0 +1,16 @@
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\web-pa-wmmccowan.exe
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\web-pa-wmmccowan.deps.json
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\web-pa-wmmccowan.runtimeconfig.json
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\web-pa-wmmccowan.runtimeconfig.dev.json
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\web-pa-wmmccowan.dll
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\ref\web-pa-wmmccowan.dll
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\bin\Debug\net5.0\web-pa-wmmccowan.pdb
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.csproj.AssemblyReference.cache
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.AssemblyInfoInputs.cache
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.AssemblyInfo.cs
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.csproj.CoreCompileInputs.cache
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.dll
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\ref\web-pa-wmmccowan.dll
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.pdb
+C:\Users\willm\OneDrive\Documents\Source\Repos\web-pa-wmmccowan\obj\Debug\net5.0\web-pa-wmmccowan.genruntimeconfig.cache
